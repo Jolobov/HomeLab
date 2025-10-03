@@ -1,0 +1,11 @@
+{
+    "cookies_path": "cookies.txt",
+    "output_path": "Apple Music",
+    "temp_path": "temp",
+    "codec_song": "aac-legacy",
+    "save_cover": true,
+    "no_synced_lyrics": true,
+    "template_folder_album": "{artist} - {album}",
+    "template_file_single_disc": "{artist} - {title}",
+    "template_file_multi_disc": "{artist} - {title}"
+}
